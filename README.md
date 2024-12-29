@@ -26,4 +26,4 @@ python mutAIverse.py
 ```python
 python tanimoto.py
 ```
-This will generate a Tanimoto similarity plot based on the provided adduct data, and save it as tanimoto_similarity_plot.png in the result/plots/ directory.
+This will generate a Tanimoto similarity plot based on the provided adduct data.
