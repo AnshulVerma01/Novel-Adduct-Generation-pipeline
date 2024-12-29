@@ -21,3 +21,9 @@ The primary script to run the pipeline is provided src/mutAIverse.py. Execute it
 ```python
 python mutAIverse.py
 ```
+
+- In the result/csv/txt/tanimoto/adducts directory, we have provided experimentally validated and putative adducts for each nucleotide. To generate the Tanimoto similarity plot, execute the following command:
+```python
+python tanimoto.py
+```
+This will generate a Tanimoto similarity plot based on the provided adduct data, and save it as tanimoto_similarity_plot.png in the result/plots/ directory.
