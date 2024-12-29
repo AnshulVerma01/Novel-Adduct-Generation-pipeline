@@ -8,5 +8,16 @@ This pipeline leverages computational strategies, including Artificial Intellige
 
 1. Clone this repository:
 ```bash
+git clone https://github.com/AnshulVerma01/Novel-adducts-generation.git
+```
+2. Create a conda environment:
+```bash
+conda env create -f adductGen.yml
+conda activate adductGen
+```
 
+## Usage
+The primary script to run the pipeline is provided src/mutAIverse.py. Execute it directly.
+```python
+python mutAIverse.py
 ```
