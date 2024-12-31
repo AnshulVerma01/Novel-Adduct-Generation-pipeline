@@ -17,7 +17,7 @@ conda activate adductGen
 ```
 
 ## Usage
-The primary script to run the pipeline is provided src/mutAIverse.py. Execute it directly.
+The primary script to run the pipeline is provided src/mutAIverse.py. Execute it directly by changing the respective file paths.
 ```python
 python mutAIverse.py
 ```
